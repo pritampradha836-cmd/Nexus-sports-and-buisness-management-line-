@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Sports OS - AI & Satellite Sports Intelligence Platform",
+  "description": "Enterprise operating system for sports data science, satellite GNSS & NDVI pitch intelligence, predictive ML analytics, international business line, and global media management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
